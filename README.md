@@ -1,9 +1,9 @@
 <div align="center">
   <br />
     <a href="https://zentrylite.vercel.app" target="_blank">
-      <img src="public/img/project_banner.png" alt="Project Banner">
+      <img src="public/img/project_banner.png" alt="Project Banner" style="border-radius: 15px;">
     </a>
-  <br />
+  <br /><br />
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -27,13 +27,14 @@
 
 ## <a name="overview"> 🌟 **Overview** </a>
 
-**Zentry Lite** is a modern and professional landing page built using **React.js**, **Tailwind CSS**, and **GSAP**. It replicates and reimagines the elegance of the original Zentry website, delivering a responsive user experience enriched with smooth animations and modular, maintainable code.
+**Zentry Lite** is a modern landing page built using **React.js**, **Tailwind CSS**, and **GSAP**. It replicates and reimagines the elegance of the original Zentry website, offering a responsive user experience enhanced with smooth animations and modular, maintainable code.
 
-This project highlights advanced front-end skills and serves as a practical demonstration of creating dynamic and aesthetic web interfaces.
+This project highlights advanced front-end skills and demonstrates how to build dynamic and aesthetic web interfaces.
 
 ---
 
 ## <a name="tech-stack"> 🚀 **Tech Stack** </a>
+
 - **React.js**: A JavaScript library for building efficient, reusable components.
 - **Tailwind CSS**: A utility-first framework for rapid and responsive UI development.
 - **GSAP (GreenSock Animation Platform)**: A robust library for creating high-performance animations.
@@ -41,24 +42,29 @@ This project highlights advanced front-end skills and serves as a practical demo
 ---
 
 ## <a name="features"> ✨ **Features** </a>
-- **Interactive Scroll Animations**: Scroll-triggered effects and dynamic transitions for enhanced engagement.
-- **Polished Design**: Minimalist aesthetics with precise attention to layout and color harmony.
-- **Responsive Across Devices**: Fully adaptable design for desktops, tablets, and smartphones.
-- **Reusable Code**: Modular architecture enabling scalable and clean development.
-- **High-Performance Animations**: Smooth, optimized effects powered by GSAP.
+
+- **Interactive Scroll Animations**: Smooth transitions triggered by user interaction.
+- **Polished Design**: Minimalist aesthetics with a focus on layout and color harmony.
+- **Responsive Design**: Optimized for desktops, tablets, and smartphones.
+- **Modular Codebase**: Clean, reusable code structure for scalability.
+- **High-Performance Animations**: Dynamic effects powered by GSAP.
 
 ---
 
 ## <a name="getting-started"> ⚡ **Getting Started** </a>
+
 Follow these steps to run the project locally.
 
 ### **Prerequisites**
+
 Ensure the following are installed:
+
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
 ### **Installation**
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/thesiddemigod/zentrylite.git
@@ -78,6 +84,11 @@ Access the project at [http://localhost:5173](http://localhost:5173).
 ---
 
 ## <a name="disclaimer"> 📜 **Disclaimer** </a>
-The project draws inspiration from **[Zentry](https://zentry.com/)**. Assets used are for educational purposes only. For commercial or public use, replace proprietary assets with ones you own or have rights to use.
 
-This project is not affiliated with or endorsed by **[Zentry](https://zentry.com/)**.
+All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for educational purposes and is not intended for commercial use or public deployment.
+
+This project uses some assets and fonts from **[Zentry](https://zentry.com/)** solely for demonstration purposes. All rights to these assets and fonts belong to their respective owners. If you plan to use this project commercially or publicly, please replace these assets and fonts with ones you own or have permission to use.
+
+The live deployment of **Zentry Lite** on Vercel is for demonstration purposes only, showcasing the implementation as part of a personal portfolio. **Zentry Lite** is not affiliated with or endorsed by **[Zentry](https://zentry.com/)**.
+
+---
