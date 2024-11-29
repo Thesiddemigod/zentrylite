@@ -12,7 +12,7 @@
   </div>
 
 <h1 align="center">Zentry Lite</h1>
-  <p align="center">A refined landing page inspired by Zentry, showcasing sleek design, interactive animations, and responsive UI.</p>
+  <p align="center">A refined landing page inspired by **[Zentry](https://zentry.com/)**, showcasing sleek design, interactive animations, and responsive UI.</p>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -27,7 +27,7 @@
 
 ## <a name="overview"> 🌟 **Overview** </a>
 
-**Zentry Lite** is a modern landing page built using **React.js**, **Tailwind CSS**, and **GSAP**. It replicates and reimagines the elegance of the original Zentry website, offering a responsive user experience enhanced with smooth animations and modular, maintainable code.
+**Zentry Lite** is a modern landing page built using **React.js**, **Tailwind CSS**, and **GSAP**. It replicates and reimagines the elegance of the original **[Zentry](https://zentry.com/)** website, offering a responsive user experience enhanced with smooth animations and modular, maintainable code.
 
 This project highlights advanced front-end skills and demonstrates how to build dynamic and aesthetic web interfaces.
 
