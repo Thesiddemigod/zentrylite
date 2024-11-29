@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://zentrylite.vercel.app" target="_blank">
-      <img src="public/img/project_banner.png" alt="Project Banner" style="border-radius: 12px;">
+      <img src="public/img/project_banner.png" alt="Project Banner" style="border-radius: 50px;">
     </a>
   <br />
 
@@ -55,8 +55,18 @@ Ensure the following are installed:
    ```bash
    git clone https://github.com/thesiddemigod/zentrylite.git
    cd zentrylite
+   ```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Run the development server:
+```bash
+npm run dev
+```
+Access the project at [http://localhost:5173](http://localhost:5173).
 
-📜 Disclaimer
-The project draws inspiration from Zentry. Assets used are for educational purposes only. For commercial or public use, replace proprietary assets with ones you own or have rights to use.
+## 📜 Disclaimer
+The project draws inspiration from **[Zentry](https://zentry.com/)**. Assets used are for educational purposes only. For commercial or public use, replace proprietary assets with ones you own or have rights to use.
 
-This project is not affiliated with or endorsed by Zentry.
+This project is not affiliated with or endorsed by **[Zentry](https://zentry.com/)**.
