@@ -18,12 +18,10 @@
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🌟 [Overview](#overview)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+2. 🚀 [Tech Stack](#tech-stack)
+3. ✨ [Features](#features)
+4.  ⚡ [Getting Started](#getting-started)
+5. 📜 [Disclaimer](#disclaimer)
 
 ---
 
@@ -35,14 +33,14 @@ This project highlights advanced front-end skills and serves as a practical demo
 
 ---
 
-## 🚀 **Tech Stack**
+## <a name="tech-stack"> 🚀 **Tech Stack** </a>
 - **React.js**: A JavaScript library for building efficient, reusable components.
 - **Tailwind CSS**: A utility-first framework for rapid and responsive UI development.
 - **GSAP (GreenSock Animation Platform)**: A robust library for creating high-performance animations.
 
 ---
 
-## ✨ **Features**
+## <a name="features"> ✨ **Features** </a>
 - **Interactive Scroll Animations**: Scroll-triggered effects and dynamic transitions for enhanced engagement.
 - **Polished Design**: Minimalist aesthetics with precise attention to layout and color harmony.
 - **Responsive Across Devices**: Fully adaptable design for desktops, tablets, and smartphones.
@@ -51,7 +49,7 @@ This project highlights advanced front-end skills and serves as a practical demo
 
 ---
 
-## ⚡ **Getting Started**
+## <a name="getting-started"> ⚡ **Getting Started** </a>
 Follow these steps to run the project locally.
 
 ### **Prerequisites**
@@ -79,7 +77,7 @@ Access the project at [http://localhost:5173](http://localhost:5173).
 
 ---
 
-## 📜 Disclaimer
+## <a name="disclaimer"> 📜 **Disclaimer** </a>
 The project draws inspiration from **[Zentry](https://zentry.com/)**. Assets used are for educational purposes only. For commercial or public use, replace proprietary assets with ones you own or have rights to use.
 
 This project is not affiliated with or endorsed by **[Zentry](https://zentry.com/)**.
