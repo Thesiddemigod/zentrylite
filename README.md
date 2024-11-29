@@ -11,4 +11,6 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-<h3 align="center">Zentry Lite</h3>
+<h1 align="center">Zentry Lite</h1>
+  <p align="center">A refined landing page inspired by Zentry, showcasing sleek design, interactive animations, and responsive UI.</p>
+</div>
