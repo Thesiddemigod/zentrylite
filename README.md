@@ -20,7 +20,7 @@
 1. 🌟 [Overview](#overview)
 2. 🚀 [Tech Stack](#tech-stack)
 3. ✨ [Features](#features)
-4.  ⚡ [Getting Started](#getting-started)
+4. ⚡ [Getting Started](#getting-started)
 5. 📜 [Disclaimer](#disclaimer)
 
 ---
