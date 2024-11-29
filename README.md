@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://zentrylite.vercel.app" target="_blank">
-      <img src="public/img/project_banner.png" alt="Project Banner" style="border-radius: 50%;">
+      <img src="public/img/project_banner.png" alt="Project Banner">
     </a>
   <br />
 
@@ -15,9 +15,19 @@
   <p align="center">A refined landing page inspired by Zentry, showcasing sleek design, interactive animations, and responsive UI.</p>
 </div>
 
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🌟 [Overview](#overview)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets (Code to Copy)](#snippets)
+6. 🔗 [Assets](#links)
+7. 🚀 [More](#more)
+
 ---
 
-## 🌟 **Overview**
+## <a name="overview"> 🌟 **Overview** </a>
 
 **Zentry Lite** is a modern and professional landing page built using **React.js**, **Tailwind CSS**, and **GSAP**. It replicates and reimagines the elegance of the original Zentry website, delivering a responsive user experience enriched with smooth animations and modular, maintainable code.
 
