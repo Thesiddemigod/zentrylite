@@ -12,7 +12,7 @@
   </div>
 
 <h1 align="center">Zentry Lite</h1>
-  <p align="center">A refined landing page inspired by **[Zentry](https://zentry.com/)**, showcasing sleek design, interactive animations, and responsive UI.</p>
+  <p align="center">A refined landing page inspired by Zentry, showcasing sleek design, interactive animations, and responsive UI.</p>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
