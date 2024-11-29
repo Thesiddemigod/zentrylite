@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://zentrylite.vercel.app" target="_blank">
-      <img src="public/img/project_banner.png" alt="Project Banner" style="border-radius: 20px; overflow: hidden;" />
+      <img src="public/img/project_banner.png" alt="Project Banner" />
     </a>
   <br /><br />
 
