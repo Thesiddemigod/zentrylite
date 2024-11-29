@@ -67,7 +67,9 @@ Ensure the following are installed:
    
 Access the project at [http://localhost:5173](http://localhost:5173).
 
-## 📜 Disclaimer
+---
+
+### 📜 Disclaimer
 The project draws inspiration from **[Zentry](https://zentry.com/)**. Assets used are for educational purposes only. For commercial or public use, replace proprietary assets with ones you own or have rights to use.
 
 This project is not affiliated with or endorsed by **[Zentry](https://zentry.com/)**.
