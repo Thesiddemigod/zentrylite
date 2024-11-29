@@ -57,13 +57,14 @@ Ensure the following are installed:
    cd zentrylite
    ```
 2. Install dependencies:
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 3. Run the development server:
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
+   
 Access the project at [http://localhost:5173](http://localhost:5173).
 
 ## 📜 Disclaimer
